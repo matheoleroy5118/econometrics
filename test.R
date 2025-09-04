@@ -2,14 +2,10 @@
 
 install.packages("remotes")
 remotes::install_github("nx10/httpgd")
-
 # install.packages("radian")
 # library(radian)
-
-# install.packages("styler")
-# library(styler)
-
-# test 
+install.packages("styler")
+library(styler)
 
 styler::style_file(
   "Test_R.R",
