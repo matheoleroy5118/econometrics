@@ -1,0 +1,18 @@
+# Fichiers générés par R Markdown
+*.html
+*.pdf
+*.nb.html
+
+# Fichiers RStudio
+.Rproj.user/
+.Rhistory
+.RData
+.Ruserdata
+
+# Cache de knitr / rmarkdown
+*_cache/
+*_files/
+
+# Dossiers Python / Jupyter (si présents)
+__pycache__/
+.ipynb_checkpoints/
