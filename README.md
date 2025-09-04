@@ -1,0 +1,2 @@
+# econometrics
+Lab -- Econometrics course 
